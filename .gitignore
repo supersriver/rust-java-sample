@@ -3,6 +3,7 @@ rust/Cargo.lock
 
 java/.gradle
 java/build
+java/bin
 java/.vscode
 java/.settings
 java/.project
